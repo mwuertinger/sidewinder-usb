@@ -1,0 +1,31 @@
+CAM output for current project sidewinder-usb.T3001
+Output on 15. Feb 2020, 11:39h
+Current project created using TARGET 20.6.0.4 discover
+Output created using TARGET 3001! V20.6.0.4
+Current Project from TARGET NC edition: Commercial use is criminal!
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 100 mm x 50 mm
+
+Description of created files as follows:
+
+sidewinder-usb.Top = 16 = Copper top L1   ( *.Top )
+sidewinder-usb.Bot = 2 = Copper bottom L2   ( *.Bot )
+sidewinder-usb.Tool = drill tool list
+sidewinder-usb.Drill = Galvanised drills
+sidewinder-usb.Outline = 23 = PCB outline   ( *.Outline )
+sidewinder-usb.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+sidewinder-usb.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+sidewinder-usb.PosiTop = 21 = Position print top   ( *.PosiTop )
+sidewinder-usb.PasteTop = 19 = Solder paste top   ( *.PasteTop )
+sidewinder-usb.Apr = TARGET 3001! aperture list
+sidewinder-usb.Whl = Eagle compatible aperture list
+
+
+Caution: Smallest track is thiner than 0.150mm: (0.100 at 69.57 | 84.99) on layer 21
