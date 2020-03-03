@@ -29,3 +29,5 @@ suggestions from the sw3dprousb project as well as from
 [this DescentBB thread](https://www.descentbb.net/viewtopic.php?t=15526).
 
 ![Schematic](/hardware/schematic.png)
+![Board](/hardware/board.png)
+![Assembled](/hardware/board-assembled.jpg)
