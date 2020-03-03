@@ -27,3 +27,5 @@ This should work out of the box on Linux systems provided that there is only one
 The hardware is based on a minimal design around the ATmega32u4 microcontroller and follows the
 suggestions from the sw3dprousb project as well as from
 [this DescentBB thread](https://www.descentbb.net/viewtopic.php?t=15526).
+
+![Schematic](/hardware/schematic.png)
