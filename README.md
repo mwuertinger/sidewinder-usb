@@ -19,7 +19,7 @@ The ATmega32u4 controller comes with a pre-configured bootloader which is
 the firmware via USB without the need for an
 [ICSP](https://en.wikipedia.org/wiki/In-system_programming) port.
 
-The [flash-firmware.sh](../blob/master/flash-firmware.sh) script can be used to flash the firmware
+The [flash-firmware.sh](../master/flash-firmware.sh) script can be used to flash the firmware
 on a newly assembled board using the [dfu-programmer](https://dfu-programmer.github.io/) utility.
 This should work out of the box on Linux systems provided that there is only one DFU device present.
 
