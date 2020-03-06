@@ -28,6 +28,11 @@ The hardware is based on a minimal design around the ATmega32u4 microcontroller 
 suggestions from the sw3dprousb project as well as from
 [this DescentBB thread](https://www.descentbb.net/viewtopic.php?t=15526).
 
+### Schematic
 ![Schematic](/hardware/schematic.png)
+
+### Board Layout
 ![Board](/hardware/board.png)
+
+### Picture of an assembled v0.1 board
 ![Assembled](/hardware/board-assembled.jpg)
