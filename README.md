@@ -34,5 +34,5 @@ suggestions from the sw3dprousb project as well as from
 ### Board Layout
 ![Board](/hardware/board.png)
 
-### Picture of an assembled v0.1 board
+### Picture of an assembled v0.2 board
 ![Assembled](/hardware/board-assembled.jpg)
