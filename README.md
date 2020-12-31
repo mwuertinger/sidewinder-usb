@@ -11,7 +11,7 @@ implementation.
 
 ## Software
 The software is taken from [sw3dprousb](https://code.google.com/archive/p/sw3dprousb) with
-permission from the [author](detlef@gmail.com). All credit regarding the software goes to the
+permission from the [author](mailto:detlef@gmail.com). All credit regarding the software goes to the
 original author.
 
 The ATmega32u4 controller comes with a pre-configured bootloader which is
